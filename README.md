@@ -1,8 +1,7 @@
 ![banner](https://github.com/nazrindaniell/nazrindaniell/assets/79645841/5f433bd4-492a-48e3-8b62-d15bc257631c)
 
-### About me
-My name is Nazrin Daniel, An Information Technology student at Universiti Selangor. 
-I am passionate about exploring and finding the answers to my curiosity about the technologies that are behind modern web applications.
+### Hello, there :wave:
+I'm Nazrin Daniel, an Information Technology student at Universiti Selangor who enjoys exploring and finding the answers to my curiosity about the technologies that are behind modern web applications.
 <div>
   <a href="https://www.linkedin.com/in/nazrindaniell/">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin">
@@ -15,7 +14,7 @@ I am passionate about exploring and finding the answers to my curiosity about th
   </a>
 </div>
 
-### Programming Language
+### Programming language
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
