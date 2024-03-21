@@ -1,5 +1,3 @@
-![banner](https://github.com/nazrindaniell/nazrindaniell/assets/79645841/5f433bd4-492a-48e3-8b62-d15bc257631c)
-
 ### Hello, there :wave:
 I'm Nazrin Daniel, an Information Technology student at Universiti Selangor who enjoys exploring and finding the answers to my curiosity about the technologies that are behind modern web applications.
 <div>
