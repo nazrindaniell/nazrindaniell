@@ -7,6 +7,9 @@ I'm Nazrin Daniel, an Information Technology student at Universiti Selangor who 
   <a href="https://www.instagram.com/nazrindaniell">
     <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white">
   </a>
+  <a href="https://codepen.io/nazrindaniell">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CodePen-black?style=flat-square&logo=codepen">
+  </a>
   <a href="https://github.com/nazrindaniell">
     <img alt="Static Badge" src="https://img.shields.io/badge/Follow-white?style=social&logo=github">  
   </a>
