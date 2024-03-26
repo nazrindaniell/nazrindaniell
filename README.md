@@ -4,9 +4,6 @@ I'm Nazrin Daniel, an Information Technology student at Universiti Selangor who 
   <a href="https://www.linkedin.com/in/nazrindaniell/">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin">
   </a>
-  <a href="https://www.instagram.com/nazrindaniell">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white">
-  </a>
   <a href="https://codepen.io/nazrindaniell">
     <img alt="Static Badge" src="https://img.shields.io/badge/CodePen-black?style=flat-square&logo=codepen">
   </a>
