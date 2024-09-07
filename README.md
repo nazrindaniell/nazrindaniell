@@ -26,6 +26,3 @@ I'm Nazrin Daniel, an Information Technology student at Universiti Selangor who 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nazrindaniell&repo=GoTravel&show_owner=true&theme=radical)](https://github.com/nazrindaniell/GoTravel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nazrindaniell&repo=GemaLoka&show_owner=true&theme=radical)](https://github.com/nazrindaniell/GemaLoka)
 
----
-
-![nazrindaniell's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazrindaniell&theme=radical&show_icons=true)
