@@ -1,5 +1,5 @@
 ### Hello, there :wave:
-I'm Nazrin Daniel, an Information Technology student at Universiti Selangor who enjoys exploring and finding the answers to my curiosity about the technologies that are behind modern web applications.
+I'm Nazrin Daniel, an Information Technology student who enjoys exploring and finding the answers to my curiosity about the technologies that are behind modern web applications.
 <div>
   <a href="https://www.linkedin.com/in/nazrindaniell/">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin">
